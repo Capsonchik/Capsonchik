@@ -1,15 +1,6 @@
 
 ### :man_technologist: Немного обо мне :
----
-Я начинающий Frontend разработчик.
 
-- :telescope: На данный момент не работаю в IT сфере но имею непреодалимое желание туда попасть, и поверьте я попаду =)
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
----
 
 ### :hammer_and_wrench: Стек технологий :
 <div>
